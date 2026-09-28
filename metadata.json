@@ -1,0 +1,6 @@
+{
+  "name": "TradingView — Markets, everywhere",
+  "description": "Global financial markets portal featuring real-time indices, large-cap stock leaders, crypto highlights, forex majors, and interactive charting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
